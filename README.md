@@ -5,7 +5,7 @@
 
 | Mois  | Ping  | Téléchargement  | Upload  |
 | ------|------- | -------------| ---------|
-| [September](#) | 0 | 0 |  0 |
+| [September](https://github.com/senegalouvert/Test-4G-orange/blob/master/data/2017/september.csv) | 39 | 7.58 | 4.25 |
 
 ## Comment devenir testeur ?
 
@@ -15,7 +15,7 @@
 
 2. Lancer l'application, Testez la vitesse
 
-3. Partager votre résultat sur messenger en recherchant [@Tester4Gorange](m.me/Tester4Gorange) ou capturer votre écran et envoyer l'image à [@Tester4Gorange](m.me/Tester4Gorange) sur messenger sinon par u e-mail [mobile@senegalouvert.org](mailto:mobile@senegalouvert.org)
+3. Partager votre résultat sur messenger en recherchant [@Tester4Gorange](http://m.me/Tester4Gorange) ou capturer votre écran et envoyer l'image à [@Tester4Gorange](http://m.me/Tester4Gorange) sur messenger sinon par u e-mail [mobile@senegalouvert.org](mailto:mobile@senegalouvert.org)
 
 **Merci de votre contribution**
 
@@ -30,4 +30,4 @@
 * **upload** : débit d'uploader (Mbps)
 
 ## Politique de Confidentialité
-Consultez notre politique de confidentialité [ici](#)
+Consultez notre politique de confidentialité [ici](https://github.com/senegalouvert/Test-4G-orange/blob/master/Privacy-Policy.md)
