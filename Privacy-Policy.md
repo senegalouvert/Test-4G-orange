@@ -32,4 +32,4 @@ Cette politique a été modifiée pour la dernière fois le 24 septembre 2017
 
 ### Contactez-nous
 
-Si vous avez la moindre question à propos de cette politique de confidentialité, n'hésitez pas à nous contacter mobile@senegalouvert.org.
+Si vous avez la moindre question à propos de cette politique de confidentialité, n'hésitez pas à nous contacter mobile@senegalouvert.io.
